@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a very simple VM setup for building, running, and managing Laravel v4 apps.
+A very simple VM setup for building, running, and managing Laravel v4 apps.
 
 ## Process
 
